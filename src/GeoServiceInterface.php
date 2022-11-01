@@ -3,7 +3,7 @@
 namespace Hillel\Geo\Test;
 
 /**
- * @package
+ * @package Hillel\Geo\Test\GeoServiceInterface
  */
 interface GeoServiceInterface
 {
