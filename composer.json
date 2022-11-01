@@ -1,0 +1,22 @@
+{
+    "name": "bars/package-hillel-geo-test",
+    "description": "short",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "serg.bardeniuk",
+            "email": "serg.bardeniuk@splynx.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Hillel\\Geo\\Test\\": "./src"
+        }
+    },
+    "require": {
+        "geoip2/geoip2": "~2.0",
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
