@@ -7,7 +7,7 @@ use GeoIp2\Model\Country;
 use GeoIp2\Exception\AddressNotFoundException;
 
 /**
- * @package Hillel\Geo\Test\MaxmindService v0.0.1
+ * @package Hillel\Geo\Test\MaxmindService v0.0.2
  */
 class MaxmindService implements GeoServiceInterface
 {
