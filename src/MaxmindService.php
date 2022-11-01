@@ -6,6 +6,9 @@ use GeoIp2\Database\Reader;
 use GeoIp2\Model\Country;
 use GeoIp2\Exception\AddressNotFoundException;
 
+/**
+ * @package Hillel\Geo\Test\MaxmindService
+ */
 class MaxmindService implements GeoServiceInterface
 {
     /** @var Reader */
