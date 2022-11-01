@@ -4,6 +4,9 @@ namespace Hillel\Geo\Test;
 
 use Illuminate\Support\Facades\Http;
 
+/**
+ * @package Hillel\Geo\Test\IpApiGeoService
+ */
 class IpApiGeoService implements GeoServiceInterface
 {
     /** @var array */
